@@ -11,5 +11,9 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 Creating a new branch is quick AND simple.
--no-ff
+
 多人协作
+no-ff
+
+mygit3/mygit2
+
